@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+#title{
+    text-align: center;
+}
+
+#not-avaliable{
+    color: red;
+}
+
+#not-avaliable-capital-letter {
+    color: red;
+}
