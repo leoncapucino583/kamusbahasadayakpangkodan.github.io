@@ -7,4 +7,6 @@ Tolong mendukung, website pertama :)
 
 # Pergantian:
 
-<18/06/2026> tambah kosakata
+[18/06/2026] tambah kosakata
+
+[20/06/2026] tambah kosakata
