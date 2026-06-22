@@ -17,3 +17,18 @@ body{
 #not-avaliable-capital-letter {
     color: red;
 }
+
+#kirim-fbask{
+    background-color: black;
+    color: white;
+    border-width: 1.5px;
+    border-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    transition: 0.25s ease-in-out;
+}
+
+#kirim-fbask:hover{
+    padding: 2px;
+    cursor: pointer;
+}
